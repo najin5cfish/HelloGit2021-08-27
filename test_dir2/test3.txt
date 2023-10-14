@@ -1,0 +1,6 @@
+# test
+```
+git add ./test_dir2/test3.txt
+git commit -m "パスで追加"
+git push origin first_branch_test
+```
